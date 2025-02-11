@@ -26,7 +26,7 @@ these messages are ignored because, it doesn't matter, because, it's the norm no
 
 But, the problem isn't ignoring messages[_I do it too._],
 the problem is ignoring questions. And it isn't just via the internet,
-or messages. I see people just ignoing the person infront of them and not speaking and
+or messages. I see people just ignoring the person infront of them and not speaking and
 just flat out refusing to acknowledge that the person exists in front of them. It's
 ghosting but standing in front of the person and making them feel like a ghost [_someone
 who doesn't exist_]. I see this in teenagers today and I know that __Juvenoya__ is a thing.

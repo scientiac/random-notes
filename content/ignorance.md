@@ -14,14 +14,14 @@ and assuming there are alternatives and counterarguments.
 
 Any criticizm seems like it is a personal attack to the persons beliefs. _I am just
 what I am_ [_I like the way I am_] is the biggest excuse for people. [_Like, sure but that's what an animal
-without a brain, [_I mean conscience._] would also think of itself._] Having a brain
+without a brain, [_(I mean conscience)_] would also think of itself._] Having a brain
 means you can think and reason, because you'll be validated by the internet for almost
 anything you think of and validation is like privacy nowadays. [_Just a concept._]
 
 I am a tech guy. [_I must have repeated this phrase many times and will go on to do so._]
-And I am very interested by how we can from data from one place to anothere in
+And I am very interested by how we can send data from one place to anothere in
 different ways, and in speed. [_And by speed, I mean instantly_] and the fact that
-these messages are ignored because it doesn't matter because it's the norm now.
+these messages are ignored because, it doesn't matter, because, it's the norm now.
 [_Message come and go, they doesn't matter._]
 
 But, the problem isn't ignoring messages[_I do it too._],

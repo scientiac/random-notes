@@ -19,7 +19,7 @@ means you can think and reason, because you'll be validated by the internet for 
 anything you think of and validation is like privacy nowadays. [_Just a concept._]
 
 I am a tech guy. [_I must have repeated this phrase many times and will go on to do so._]
-And I am very interested by how we can send data from one place to anothere in
+And I am very interested by how we can send data from one place to another in
 different ways, and in speed. [_And by speed, I mean instantly_] and the fact that
 these messages are ignored because, it doesn't matter, because, it's the norm now.
 [_Message come and go, they doesn't matter._]

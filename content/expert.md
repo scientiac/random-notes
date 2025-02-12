@@ -1,12 +1,12 @@
 +++
-title = "Master"
+title = "Expert"
 date = 2025-02-12T14:14:19+05:45
 [taxonomies]
 tags = ["realization"]
 +++
 
-Master is someone who has made all the mistakes there is to make in a particular field.
-I forgot who said this but it made so much sense. We wish to be masters , we wish to
+Expert is someone who has made all the mistakes there is to make in a particular field.
+I forgot who said this but it made so much sense. We wish to be experts , we wish to
 know everything there is to know about something that interests us, but we humans are
 lazy animals. We are evoltionalrily lazy. We try to conserve our energy and only use
 it when we absolutely need it.

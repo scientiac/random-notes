@@ -38,4 +38,7 @@ evolution_] [I mean, it's like evolution but hapenning very fast._]
 And I believe that we all should learn to control our own minds, to focus on something
 [_anything_] and from a younger age [_we should be taught to do that_].
 
-__To not give up and to keep making mistakes is the survival strategy.__
+___To not give up and to keep making mistakes is the survival strategy.___
+
+[_PS: It was Niels Bohr, the great Danish physicist, who said_]
+> An expert is a person who has found out by his own painful experience all the mistakes that one can make in a very narrow field.

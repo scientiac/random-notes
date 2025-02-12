@@ -11,7 +11,7 @@ know everything there is to know about something that interests us, but we human
 lazy animals. We are evolutionarily lazy. We try to conserve our energy and only use
 it when we absolutely need it.
 
-This mighthave been a survival strategy for out ansistors, they had to search day and
+This might have been a survival strategy for out ansistors, they had to search day and
 night for food travelling long distances,so they developed a brain to conserve energy
 to use when it is necessary for survival, like running away from a preditor [_idk..
 maybe swimming through the rivers_] or collecting food from trees or hunting.

@@ -8,7 +8,7 @@ tags = ["realization"]
 Expert is someone who has made all the mistakes there is to make in a particular field.
 I forgot who said this but it made so much sense. We wish to be experts , we wish to
 know everything there is to know about something that interests us, but we humans are
-lazy animals. We are evoltionalrily lazy. We try to conserve our energy and only use
+lazy animals. We are evolutionarily lazy. We try to conserve our energy and only use
 it when we absolutely need it.
 
 This mighthave been a survival strategy for out ansistors, they had to search day and

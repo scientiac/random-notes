@@ -23,7 +23,7 @@ we get food from the market and eat, we use the means of transportation to trave
 things hoping to make or discover or invent new things from the informaton we have
 gained [_probably, something to make our life more easier_].
 
-But, the problem comes here; thinking and learning weren't the survivla strategies
+But, the problem comes here; thinking and learning weren't the survival strategies
 we evloved with. But, in this age those are the most important skills to have, but
 our brain doesn't give them much importance. [_I think that's what's wrong with me
 too._] The ability to control our mind [_sounds preposterous, right? controlling

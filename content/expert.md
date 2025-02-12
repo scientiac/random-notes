@@ -30,13 +30,13 @@ too._] The ability to control our mind [_sounds preposterous, right? controlling
 the very thing that controls us._] is the most important survival strategy and it
 is very difficult because we aren't evolved with that.
 
-I can't jsut say that only evolution affects lazyness, because, the other thing is
+I can't just say that only evolution affects lazyness, because, the other thing is
 the environment we grow up in [_the modern world_]. The brain develops learning
 things from this environment, the rights and wrongs, the goods and bads and the
 grays and everything else. [_adaptaiton is the other main player in this, not just
-evolution_] [I mean, it's like evolution but hapenning very fast._]
+evolution_] [_I mean, it's like evolution but hapenning very fast._]
 And I believe that we all should learn to control our own minds, to focus on something
-[_anything_] and from a younger age [_we should be taught to do that_].
+[_anything_] from a younger age [_we should be taught to do that_].
 
 ___To not give up and to keep making mistakes is the survival strategy.___
 

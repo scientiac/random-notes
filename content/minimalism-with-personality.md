@@ -43,9 +43,6 @@ get the chance to._]
   <!-- One -->
   <option value="one-light">One Light</option>
   <option value="one-dark">One Dark</option>
-  <!-- Tokyo -->
-  <option value="tokyo-night">Tokyo Night</option>
-  <option value="tokyo-night-light">Tokyo Night Light</option>
   <!-- Catppuccin -->
   <option value="catppuccin-latte">Catppuccin Latte</option>
   <option value="catppuccin-frappe">Catppuccin Frappe</option>

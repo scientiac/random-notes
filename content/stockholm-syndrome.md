@@ -24,7 +24,7 @@ rebuilding the entire config each time [_which takes a lot of time_] gets frustr
 don't even ask how to get something running if a package you need isn't already packaged for nix. [_Which is very rare but
 it's not as simple as following instructions from that package's repo._]
 
-I knew about these issue before I even felt like nix was easy [_and by easy I mean, by practice
+I knew about these issues before I even felt like nix was easy [_and by easy I mean, by practice
 not inherently easy like Ubuntu_] and was something to keep using, it was kinda like a prison back then,
 but now I feel like I cannot use any computer without it.
 

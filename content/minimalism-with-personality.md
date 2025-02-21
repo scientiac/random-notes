@@ -26,7 +26,55 @@ Similarly, I designed my main logo which is an "s" but made completely of
 straight lines. [_Which I am very proud of and I talk about it whenever I
 get the chance to._]
 
-<img src="https://scientiac.space/res/colors/logo-catppuccin-latte.svg" style="width:40%">
+<div align="center">
+<select id="themeSelect" style="appearance: none; text-align: center;">
+  <!-- Everforest -->
+  <option value="everforest-light">Everforest Light</option>
+  <option value="everforest-dark">Everforest Dark</option>
+  <!-- Gruvbox -->
+  <option value="gruvbox-light">Gruvbox Light</option>
+  <option value="gruvbox-dark">Gruvbox Dark</option>
+  <!-- Night -->
+  <option value="night-solis">Night Solis</option>
+  <option value="night-spaceduck">Night Spaceduck</option>
+  <option value="night-gotham">Night Gotham</option>
+  <!-- Nord -->
+  <option value="nord">Nord</option>
+  <!-- One -->
+  <option value="one-light">One Light</option>
+  <option value="one-dark">One Dark</option>
+  <!-- Tokyo -->
+  <option value="tokyo-night">Tokyo Night</option>
+  <option value="tokyo-night-light">Tokyo Night Light</option>
+  <!-- Catppuccin -->
+  <option value="catppuccin-latte">Catppuccin Latte</option>
+  <option value="catppuccin-frappe">Catppuccin Frappe</option>
+  <option value="catppuccin-macchiato">Catppuccin Macchiato</option>
+  <option value="catppuccin-mocha">Catppuccin Mocha</option>
+</select>
+</div>
+<!-- Image element. The src URL includes the selected theme in its name -->
+<img id="themeImage" src="https://scientiac.space/res/colors/logo-night-gotham.svg" style="width:40%;" alt="Theme logo">
+
+<script>
+  // Get references to the select element and image
+  const themeSelect = document.getElementById('themeSelect');
+  const themeImage = document.getElementById('themeImage');
+
+  // Update image based on the user's theme selection
+  themeSelect.addEventListener('change', function() {
+    const selectedTheme = themeSelect.value;
+    // Construct the new image URL using the selected theme
+    const newUrl = `https://scientiac.space/res/colors/logo-${selectedTheme}.svg`;
+    themeImage.style.opacity = 0;
+    setTimeout(() => {
+      themeImage.src = newUrl;
+      themeImage.style.opacity = 1;
+    }, 200);
+  });
+</script>
+
+[_Yes! I put the color changing script in a markdown file._]
 
 But, thinking about personality, I sometimes wish that apples were rainbow
 colored and the window glasses were tinted with colors.

@@ -15,7 +15,7 @@ counted as one of the good students in the class. I was never brillient and neve
 didn't really study that much but I wasn't out of answers to write as well. I have always
 been told that I can be excillent if I "study harder" but I never did.
 
-I did get good grades so all my parents and relatives felt like I cound do something in
+I did get good grades so all my parents and relatives felt like I could do something in
 life that'd made me better than others. [_In other words, they felt like I would be
 "sucessful"._] I still think that I am a good student and I can get good grades if I study.
 But, the reality is different. I am addicted to ignoring the subjects if I have to give

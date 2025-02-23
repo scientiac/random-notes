@@ -1,5 +1,5 @@
 +++
-title = "Why I don't trust some of my Teachers."
+title = "Why I don't trust some of my Teachers"
 date = 2025-02-23T15:14:11+05:45
 [taxonomies] 
 tags = ["articles"]

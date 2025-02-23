@@ -51,7 +51,7 @@ get the chance to._]
 </select>
 </div>
 <!-- Image element. The src URL includes the selected theme in its name -->
-<img id="themeImage" src="https://scientiac.space/res/colors/logo-night-gotham.svg" style="width:40%;" alt="Theme logo">
+<img id="themeImage" src="https://scientiac.space/res/colors/logo-everforest-light.svg" style="width:40%;" alt="Theme logo">
 
 <script>
   // Get references to the select element and image

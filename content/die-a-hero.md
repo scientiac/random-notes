@@ -35,3 +35,6 @@ have telepathic abilities to communicate._] Words are lost in translation so muc
 good intent can be communicated badly. [_By, this I am not suggesting that every intent is
 good and it's communication to blame._] One way or other a hero will die, but if they live
 long enough, they might just understand why/how villains are born.
+
+[_Absolutely doesn't mean one can't be a hero twice. Reborn a hero to die as a villain
+again and again._]

@@ -6,9 +6,9 @@ tags = ["articles"]
 +++
 
 We live our life thinking that one day we will achieve something. But, before even starting
-to write this article, or whatever I labelled it, I want to give you the TL;DR.__The only thing
-that we achieve finally is Death and nothing else__. Everything else? Everything else is what
-we live.
+to write this article, or whatever I labelled it, I want to give you the TL;DR. _The only thing
+that we achieve finally is Death and nothing else._ __Everything else? Everything else is what
+we live.__
 
 I like to walk, I mean I love to walk [_Out of my multiple first loves, it is probably my first, first love._],
 Haha, giving importance to "first" isn't uncommon, but first most of the time is the worst. [_And it should be._]

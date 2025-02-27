@@ -37,7 +37,7 @@
 }
 
 body {
-  background-color: white;
+  background-color: #FFFFF0;
   margin: 0 auto;
   padding:  8em 1em 1em 1em;
   color: rgb(71, 71, 71);
@@ -105,6 +105,7 @@ body > section > h1:nth-child(1) {
 .p-name {
     margin-top: 0.5rem;
     margin-bottom: 2.5rem;
+    cursor: pointer;
 }
 
 time sup {
@@ -233,7 +234,7 @@ hr::before {
 }
 
 .spacing {
-  margin: 6rem 0;
+  margin: 6rem 0 0 0;
 }
 
 blockquote {

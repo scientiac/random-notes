@@ -15,18 +15,20 @@ domain not because .com wasn't available, but I wanted it to be unique. [_Like, 
 was my space in the internet._] I set up almost everything using that domain, everything
 I could, I did. I use it as a blog on [scientiac.space](https://scientiac.space) and
 as public notes [_notepad?_] at [map.scientiac.space](https://map.scientiac.space) and many
-other things. While developing the blog, I checked the preview card by sending the link to
+other things. While developing the blog, I checked the link preview card by sending the link to
 messenger, and I did it so many times that this site got flagged as spam at Facebook.
+[_Not just facebook, but throughout the whole meta services._]
 
 I then decided to buy another domain called, [carboxi.de](https://carboxi.de) which
 was a cheap domain because of .de, and I wanted it to sound cool. [_Like, lobste.rs_]
-I used carboxide as the main way to share my blog on Facebook. That was all it was used
-for, for some time. But, now it is another blog like place but also like a computer club where I give
-subdomains to my friends to use. And it has been my safe space.
+I used carboxide as the way to share my blog on Facebook. That was all it was used
+for, for some time. But, now it is another blog which I use to write without thinking
+too much. It also is like a computer club where I give subdomains to my friends to use.
+And this domain thought it doesn't have `space` in it, it has been my safe space.
 
 Then out of stress I bought [3o14.com](https://3o14.com) in the middle of my ongoing
 exams. I am a nerd and I wanted something that represented me, and it was 'pi' the letter
-that had multiple meanings, and not just mathematical. I could not just but pi.com or 14.com
+that had multiple meanings, not just mathematical [_TT_]. I could not just buy pi.com or 14.com
 to make it 3.14.com because getting 2 lettered domains is super expensive and difficult. I
 thought of 3point14, but that was too long. I came up with 3o14 that looks like 3.14 and is
 pronounced 3o14 but represents 3point14.

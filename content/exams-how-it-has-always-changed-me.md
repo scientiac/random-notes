@@ -25,7 +25,7 @@ The fact that I feel that I am someone who should get good grades and I am faili
 in the engineering course that I chose and love says so much about me and my study habit.
 Which isn't a habit because I almost rarely "study". I explore the internet, I get facinated
 by the people and things they can do, and wish that I could do those things too. But I am
-afraid to try because if I feel like I failed when I put the effort the "Good Student" in mean
+afraid to try because if I feel like I failed when I put the effort the "Good Student" in me
 is going to die.
 
 If I study and still fail the exams I would be someone dumb. I leave the possibility that if

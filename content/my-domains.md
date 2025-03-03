@@ -24,7 +24,7 @@ was a cheap domain because of .de, and I wanted it to sound cool. [_Like, lobste
 I used carboxide as the way to share my blog on Facebook. That was all it was used
 for, for some time. But, now it is another blog which I use to write without thinking
 too much. It also is like a computer club where I give subdomains to my friends to use.
-And this domain thought it doesn't have `space` in it, it has been my safe space.
+And this domain though it doesn't have `space` in it, it has been my safe space.
 
 Then out of stress I bought [3o14.com](https://3o14.com) in the middle of my ongoing
 exams. I am a nerd and I wanted something that represented me, and it was 'pi' the letter

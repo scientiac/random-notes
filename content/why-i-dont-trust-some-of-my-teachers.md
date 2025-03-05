@@ -69,3 +69,6 @@ _The lectures are important enough to understand the subject, but not enough to 
 Prioritizing exams just cuts off from the learning, understanding and problem-solving aspect of college time._
 
 [_Also a reason why there aren't much published research papers from my uni._]
+
+> __Note:__ I wrote a follow up to this.  
+> __["Teaching: a failed Profession for Pioneers and Innovators"](/teaching-a-failed-profession-for-pioneers-and-innovators)__

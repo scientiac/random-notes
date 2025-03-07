@@ -2,7 +2,7 @@ base_url = "https://flux.carboxi.de"
 
 # about me
 author ="(iac@scientiac.space) scientiac"
-title = "carboxide"
+title = "flux:carboxide"
 description = "The carbons and oxygens of my life."
 
 # disable sass and search index

@@ -19,7 +19,7 @@ When you feel joy about the topic you are trying to learn about. And when everyt
 that you are thinking ahead of time and are predicting, matches with what you are learning
 about. You'll feel it. With joy, you'll start laughing and you laughing triggers your friend
 laughing and your friend laughing triggers you laughing back and the process continues.
-[_In engineering terms, A feedback loop._]
+[_In engineering term, A feedback loop._]
 
 Engineers get high when the thing they are working on actually works. [_By works, I mean remotely
 moves at all._] When what they know matches with what they are trying to do. When, you and your

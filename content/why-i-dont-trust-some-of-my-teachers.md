@@ -54,16 +54,16 @@ When, sitting through the lectures and solving problems for the assignments thou
 to solve real life problems if they come across it. Instead of that, I feel like I am learning to
 write things in the exams and forget about them after exam.
 
-For all this there also arrives a question that, if I have to learn about the things I have come to
-learn, from my own research at home, or [_orrrr_] just practice the past papers and optimize my writing
+For all this, there also arrives a question that, if I have to learn about the things I have come to
+learn, from my own research at home, or [_orrrr_] if I have to just practice the past papers and optimize my writing
 according to what it wants, why come to college at all? Why not go there just for the exams? But, yeah
 there is a catch there too, I have to attend college just for the sake of attendance because lower
 attendance means no entry to the exams.
 
 [_I just hate sitting through a lecture I have to fact-check afterwards, which doesn't give much info
 for how to solve the questions for exams because what the lecturer taught doesn't align on how we are
-tested afterwards, and feeling like I could have learnt a little more or practice for exams a little more
-if only I knew what to learn next for the course (which I can find out myself a well)._]
+tested afterwards, and feeling like I could have learnt a little more or practiced for exams a little more
+if only I knew what to learn next for the course (which I can find out myself as well)._]
 
 _The lectures are important enough to understand the subject, but not enough to pass the exams. And
 Prioritizing exams just cuts off from the learning, understanding and problem-solving aspect of college time._

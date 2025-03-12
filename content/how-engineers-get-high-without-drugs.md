@@ -5,7 +5,7 @@ date =2025-03-10T20:58:21+05:45
 tags = ["thoughts"]
 +++
 
-Firstly, I really don't know what it likes to be high. So, this is for what I
+Firstly, I really don't know what it's like to be high. So, this is for what I
 consider high. To be in a state where you feel nothing but extreme joy and you
 forget everything else. [_So, now that we have my definition of high. Let's start
 talking._]

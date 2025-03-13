@@ -1,5 +1,5 @@
 +++
-title = "Continuous: Oxidization"
+title = "Continuous: Oxidation"
 date = 2025-03-12T22:33:37+05:45
 [taxonomies] 
 tags = ["articles"]

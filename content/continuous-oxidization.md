@@ -51,6 +51,7 @@ Now, let's come straight to the programs I used to use and the ones I have repla
 - ___'magic-wormhole' with 'magic-wormhole-rs'___ : _I am lying, I used the rs version all along._  
 - ___'top/htop' with 'bottom'___ : _It just looks cool._  
 - ___'dunst' with 'swayOSD'___ : _Dunst wasn't meant to be used as an OSD._  
+- ___'trash-cli' with 'trashy'___ : _Well, I'll let my trash rust in the bin._ [_2025-03-13_]
 
 # Things that Still Remain
 

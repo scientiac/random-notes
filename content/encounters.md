@@ -11,7 +11,7 @@ my memory of some things while still keeping the things that I learnt from
 it. But, this is the defence mechanism of the brain, it is how it works and
 how it tries to save us, warn us about making the same mistakes or decisions
 again. Though the memories are unpleasant, it keeps us alive. And I really don't
-want to make more mistakes.
+want to make more mistakes. [_(again)_]
 
 Though I do consciously know the lessons I have learnt, [_without feeling the fear/pain._]
 the memories just bombards me with a daisy chain of more memories and hence more and more emotions

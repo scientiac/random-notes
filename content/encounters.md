@@ -26,7 +26,7 @@ faces it in new ways. I don't think I will complete give up on some concepts jus
 because I have faced challenges and obstacles when learning about it. But when these
 memories of fear and harm come to you, to move on, I think you should just ignore them
 to make them a minor forgettable thing but still keeping the things you have learned
-from and made mistakes at in mind.
+from and made mistakes in mind.
 
 So, the next time I encounter things, I would want them to make no difference on my day
 but only when trying out the thing that I had failed in, the precautions of experiences

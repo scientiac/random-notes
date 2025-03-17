@@ -53,6 +53,7 @@ Now, let's come straight to the programs I used to use and the ones I have repla
 - ___'dunst' with 'swayOSD'___ : _Dunst wasn't meant to be used as an OSD._  
 - ___'trash-cli' with 'trashy'___ : _Well, I'll let my trash rust in the bin._ [_2025-03-13_]
 - ___'coreutils' with 'uutils-coreutils'___ : _Well, since I am using everything else rust and bleeding edge, why not the core utilities too._ [_2025-03-13_]
+- ___'carapace' with 'fish'___ : _I love nushell and I like fish completions, why not Frankenstein this shit, right?._ [_Also, Fish has been rewritten in rust XD._] [_2025-03-17_]
 
 # Things that Still Remain
 

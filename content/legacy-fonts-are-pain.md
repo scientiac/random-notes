@@ -2,7 +2,7 @@
 title = "Legacy Fonts are Pain"
 date = 2025-03-17T23:30:45+05:45
 [taxonomies]
-tags = ["rant"]
+tags = ["rants"]
 +++
 
 Since there is support for almost all characters in Unicode, all devices have been
@@ -30,7 +30,7 @@ pain. [_Unless you have already done it once._] And the fact that it won't work 
 means that even if you install _Preeti_ on your device, when you send it to someone else
 it just won't work.
 
-I would like you to boo the people if you see them using these kinds of fonts in this day and age.
-Tell them to use a Unicode font that supports their language. __Noto__ being one example of that.
+I want you to boo the people if you see them using these kinds of fonts in this day and age.
+Tell them to use an Unicode font that supports their language. __Noto__ being an example.
 
 [_And lastly, I just hate dealing with Preeti. aaaaaaaaaaaaaaaa_]

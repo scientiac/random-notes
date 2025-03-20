@@ -1,5 +1,5 @@
 +++
-title = "Give and Take✗ Receive✓ "
+title = "Give and Take (Receive) "
 date = 2025-03-18T21:54:24+05:45
 [taxonomies]
 tags = ["thoughts", "rants"]

@@ -47,4 +47,4 @@ but can't talk to, doesn't like me. (I would like the state of my mind when I di
 
 [_Haha, it's "not true" all the way down until you reach the turtles._]
 
-[_Only thing that is above and is true, is that too much or too less of anything is bad._]
+[___Only thing that is above and is true, is that too much or too less of anything is bad.___]

@@ -43,7 +43,7 @@ but can't talk to, doesn't like me. (I would like the state of my mind when I di
 
 [_Also, the above line is totally fictional, I don't know if she doesn't._]
 
-[_The above line isn't true, either. I don't have someone I like but can't talk too._]
+[_The above line isn't true, either. I don't have someone I like but can't talk to._]
 
 [_Haha, it's "not true" all the way down until you reach the turtles._]
 

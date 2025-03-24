@@ -13,7 +13,8 @@
         <h1 class="p-name">{{ latest_post.title }}</h1>
 
         <div class="e-content">
-            {{ latest_post.content | safe }}
+            {% set content = latest_post.content | replace(from="[", to='<em class="inner-voice">') | replace(from="]", to="</em>") %}
+            {{ content | safe }}
         </div>
 
         <div class="date">

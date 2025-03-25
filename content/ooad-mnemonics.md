@@ -7,7 +7,7 @@ tags = ["studying"]
 
 So, it's exam time and the first exam is on OOAD (Object Oriented Analysis and Design).
 Reading a lot of lists and memorizing them requires mnemonics. Here are some of the fun
-ones we(yeah not studying alone) [_though virtually_] created for OOAD topics:
+ones we (yeah not studying alone) [_though virtually_] created for OOAD topics:
 
 > ### _Phases of Unified Process_  
 >
@@ -36,7 +36,21 @@ ones we(yeah not studying alone) [_though virtually_] created for OOAD topics:
 > - U __S__ __2__ Dollars = State Transition
 > - US __2__ __D__ ollars = Deployment
 > - __Dollars__ = Concurrency [_getit? con-currency_]
+
+or
+
+> [___Fuck-you too, Software Development, You Cunt!___]
 >
+> - __F__ uck-you = Functional
+> - too = 2 (there are 2 for S and 2 for D)
+> - __S__ oftware = Static
+> - __S__ oftware = State Transition
+> - __D__ evelopment = Dynamic
+> - __D__ evelopment = Deployment
+> - __You__ (U) = Use Case
+> - __Cunt__ = Concurrency
+>
+> [_This is a bit too vulgar and violent._] [_Which is exactly the type of thing you remember instantly._]
 ***
 
 > ### _9 GRASP (General Responsibility Assignment Software Patterns) Patterns_  

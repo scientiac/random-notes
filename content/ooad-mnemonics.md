@@ -42,7 +42,7 @@ or
 > [___Fuck-you too, Software Development, You Cunt!___]
 >
 > - __F__ uck-you = Functional
-> - too = 2 (there are 2 for S and 2 for D)
+> too = 2 (there are 2 for S and 2 for D)
 > - __S__ oftware = Static
 > - __S__ oftware = State Transition
 > - __D__ evelopment = Dynamic

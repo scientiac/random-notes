@@ -30,11 +30,11 @@ ones we(yeah not studying alone) [_though virtually_] created for OOAD topics:
 > [___Functional US 2 Dollars.___]
 >
 > - __Functional__ = Functional
-> - __U__ S = Usecase
+> - __U__ S = Use Case
 > - U __S__ = Static
-> - __D__ ollars = Deployment
+> - __D__ ollars = Dynamic
 > - U __S__ __2__ Dollars = State Transition
-> - US __2__ __D__ ollars = State Deployment
+> - US __2__ __D__ ollars = Deployment
 > - __Dollars__ = Concurrency [_getit? con-currency_]
 >
 ***

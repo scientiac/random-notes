@@ -36,13 +36,15 @@ ones we (yeah not studying alone) [_though virtually_] created for OOAD topics:
 > - U __S__ __2__ Dollars = State Transition
 > - US __2__ __D__ ollars = Deployment
 > - __Dollars__ = Concurrency [_getit? con-currency_]
-
-or
-
+>
+> or
+>
 > [___Fuck-you too, Software Development, You Cunt!___]
 >
 > - __F__ uck-you = Functional
+>
 > too = 2 (there are 2 for S and 2 for D)
+>
 > - __S__ oftware = Static
 > - __S__ oftware = State Transition
 > - __D__ evelopment = Dynamic

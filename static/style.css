@@ -5,15 +5,13 @@
   font-weight: 400;
   src: url(/fonts/caveat-v18-latin-regular.woff2) format('woff2');
 }
-
 @font-face {
   font-display: block;
   font-family: 'Caveat';
-  font-style: normal;
+  font-style: bold;
   font-weight: 700;
   src: url(/fonts/caveat-v18-latin-700.woff2') format('woff2');
 }
-
 @font-face {
   font-family:"Libertinus";
   font-style:bold;

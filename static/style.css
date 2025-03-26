@@ -6,6 +6,7 @@
   font-stretch:normal;
   font-display:swap;
   font-weight: 400;
+  font-display: optional;
   src:url(/fonts/LibertinusSerif-Bold.woff2)format("woff2")
 }
 @font-face {
@@ -14,6 +15,7 @@
   font-stretch:normal;
   font-display:swap;
   font-weight:400;
+  font-display: optional;
   src:url(/fonts/LibertinusSerif-Italic.woff2)format("woff2")
 }
 @font-face {
@@ -22,6 +24,7 @@
   font-stretch:normal;
   font-display:swap;
   font-weight:400;
+  font-display: optional;
   src:url(/fonts/LibertinusSerif-Regular.woff2)format("woff2")
 }
 
@@ -37,16 +40,30 @@
 }
 
 body {
+  visibility: hidden;
   background-color: #FFFFF0;
+  box-sizing: border-box;
+  background-image: url(/bg.png);
+  background: color-mix(in srgb, 75%, transparent);
   margin: 0 auto;
-  padding:  8em 1em 1em 1em;
+  padding: 8em 1em 1em 1em;
   color: rgb(71, 71, 71);
-  font-family:var(--font-family);
-  font-size:var(--font-size);
+  font-family: var(--font-family);
+  font-size: var(--font-size);
   line-height: var(--font-line-height);
-  font-style:var(--font-style);
+  font-style: var(--font-style);
   width: min(95%, var(--column-width));
   overflow-wrap: break-word;
+}
+
+@font-face {
+  font-family: "Libertinus";
+  src: local("LibertinusSerif-Regular"), url(/fonts/LibertinusSerif-Regular.woff2) format("woff2");
+}
+
+body {
+  font-family: "Libertinus", serif;
+  visibility: visible;
 }
 
 a {

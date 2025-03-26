@@ -1,4 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+@font-face {
+  font-family: "Caveat";
+  font-style: normal;
+  font-weight: 400 700;
+  font-stretch: normal;
+  font-display: optional; 
+  src: url("/fonts/Caveat.ttf") format("truetype");
+}
 
 @font-face {
   font-family:"Libertinus";

@@ -1,10 +1,17 @@
 @font-face {
-  font-family: "Caveat";
+  font-display: block;
+  font-family: 'Caveat';
   font-style: normal;
-  font-weight: 400 700;
-  font-stretch: normal;
-  font-display: optional; 
-  src: url("/fonts/Caveat.ttf") format("truetype");
+  font-weight: 400;
+  src: url(/fonts/caveat-v18-latin-regular.woff2) format('woff2');
+}
+
+@font-face {
+  font-display: block;
+  font-family: 'Caveat';
+  font-style: normal;
+  font-weight: 700;
+  src: url(/fonts/caveat-v18-latin-700.woff2') format('woff2');
 }
 
 @font-face {

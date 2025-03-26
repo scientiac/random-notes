@@ -50,9 +50,6 @@
 
 body {
   background-color: #FFFFF0;
-  box-sizing: border-box;
-  background-image: url(/bg.png);
-  background: color-mix(in srgb,75%,transparent);
   margin: 0 auto;
   padding:  8em 1em 1em 1em;
   color: rgb(71, 71, 71);

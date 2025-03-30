@@ -6,7 +6,7 @@ tags = ["emacs"]
 +++
 
 So, I am using emacs now. And for a long time vim user, I am very evil.
-My whole life has become an evil mess. I have exam [tomorrow](/tomorrow.md) and I am 
+My whole life has become an evil mess. I have exam [tomorrow](/tomorrow) and I am 
 configuring emacs with my heart's content. Should get back to work now. I don't want 
 to fail the exam.
 

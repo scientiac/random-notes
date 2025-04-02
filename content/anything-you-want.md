@@ -13,8 +13,8 @@ judgment?_]
 _Are you fine with doing the gray things if someone else is doing it too?_
 
 Anything will be validated to you if you ask in the right place. If you want 
-killing animals to be a good thing, you ask a butcher how is feeding his family.
-[_Or ask yourself if you aren't a vegetarian._]
+killing animals to be a good thing, you ask a butcher how he is feeding his 
+family. [_Or ask yourself if you aren't a vegetarian._]
 If you want killing animals to be a bad thing, ask someone who has turned vegan.
 [_Or just anyone without the context._] But, what do you think? What conclusion
 do you reach from your own biases [_unbiased (externally)_] with your own

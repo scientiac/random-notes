@@ -5,6 +5,8 @@ date = 2025-04-28T10:20:55+05:45
 tags = ["love"]
 +++
 
+<em>
+
 The stories and the poems,  
 they are lies.  
 Love wasn't easy, they said.  
@@ -78,11 +80,11 @@ It was never you and I.
 Letting you go,  
 wasn't enough love you deserved,  
 so, I am letting you grow.  
-I show that I still love you a lot,  
+To show that I still love you a lot,  
 I put you out of your misery.  
 Now, I see,  
 you're strong,  
-like you were, when I saw you,  
+like you were, when I first saw you,  
 It's proved,  
 what love couldn't do in years,  
 hate did in seconds.  
@@ -94,3 +96,5 @@ You are lovely, like you were,
 before I trapped you.  
 It was so easy to love you.  
 And I loved you wrong.  
+
+</em>

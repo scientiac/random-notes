@@ -22,9 +22,9 @@ But, to make my site more personal and unique in itself I added a handwriting
 style text for my inner voice [_inner voice... [_inner voice..._]_] for the
 things I think while writing.
 
-Similarly, I designed my main logo which is an "s" but made completely of
-straight lines. [_Which I am very proud of and I talk about it whenever I
-get the chance to._]
+Take a look at this logo. It is made up of completely straight lines. It's
+minimal as well as unique. [_This is scientiac's logo and he talks about it
+whenever he gets the chance to. He is very proud of it._]
 
 <div align="center">
 <select id="themeSelect" style="appearance: none; text-align: center;">
@@ -70,8 +70,6 @@ get the chance to._]
     }, 200);
   });
 </script>
-
-[_Yes! I put the color changing script in a markdown file._]
 
 But, thinking about personality, I sometimes wish that apples were rainbow
 colored and the window glasses were tinted with colors.

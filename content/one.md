@@ -1,6 +1,7 @@
 +++
 title = "Template"
 date = 2014-03-14T15:09:26+05:45
+draft = true
 [taxonomies]
 tags = ["template"]
 +++
@@ -42,6 +43,8 @@ _This is italic text_
 _This is italic text_
 
 ~~Strikethrough~~
+
+[_This is handwriting._]
 
 ## Blockquotes
 

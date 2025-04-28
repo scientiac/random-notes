@@ -1,9 +1,9 @@
 base_url = "https://flux.carboxi.de"
 
 # about me
-author ="(iac@scientiac.space) scientiac"
+author ="flux"
 title = "flux:carboxide"
-description = "The carbons and oxygens of my life."
+description = "Just a flow of carbons and oxygens in my body."
 
 # disable sass and search index
 compile_sass = false
@@ -25,6 +25,6 @@ highlight_theme = "base16-ocean-light"
 
 # extra stuff
 [extra]
-email = "iac@scientiac.space"
+email = "flux@carboxi.de"
 profile = "/thumbnail.png"
-note = "I am a computer engineering student who loves FOSS and is learning about privacy, the internet, and languages. I sometimes write poems, stories, and occasionally some articles too. TL;DR: I write things, test things, make things, and break things."
+note = "There is nothing to know about me. I don't matter. What matters is what I write, and I write to know how I am evolving over time."

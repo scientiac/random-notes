@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div>
+    <h1 class="p-name"><a href="{{ config.base_url }}">{{ section.title }}</a></h1>
+</div>
+
+<div class=section>
+
+{% set data = load_data(path="webmentions.json", format="json") %}
+
+<div class="activity-box">
+{% for links in data.links %}
+    {% set trimmed_path = links.target | trim_start_matches(pat="https://" ~ config.extra.url ~ "/") | trim_end_matches(pat="/") %}
+    {% set relative_path = trimmed_path ~ ".md" %}
+    {% set target_page = get_page(path=relative_path) %}
+    {% if not links.source is starting_with("https://" ~ config.extra.url) %}
+        {% if links.activity.type == "like" %}
+            <div class="mention-profile like">
+                <code><a href="{{ links.source }}">{{ links.data.author.name }}</a> liked <a href="{{ links.target }}">{{ target_page.title }}</a></code>
+            </div>
+        {% endif %}
+
+        {% if links.activity.type == "link" %}
+            <div class="mention-profile link">
+                <code><a href="{{ links.source }}">{{ links.data.author.name }}</a> mentioned <a href="{{ links.target }}">{{ target_page.title }}</a></code>
+            </div>
+        {% endif %}
+
+        {% if links.activity.type == "reply" %}
+            <div class="mention-profile reply">
+                <code><a href="{{ links.source }}">{{ links.data.author.name }}</a> replied to <a href="{{ links.target }}">{{ target_page.title }}</a></code>
+            </div>
+        {% endif %}
+    {% endif %}
+{% endfor %}
+</div>
+
+</div>
+
+{% endblock content %}

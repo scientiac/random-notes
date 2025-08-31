@@ -5,7 +5,7 @@
     <title>{{ config.title }}</title>
     <link rel="stylesheet" href="/style.css">
 
-    <!-- <link rel="me" href="mailto:{{config.extra.email}}" /> -->
+    <link rel="webmention" href="https://webmention.io/{{config.extra.url}}/webmention" />
 
     {% block rss %}
       <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">

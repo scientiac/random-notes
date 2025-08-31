@@ -25,6 +25,7 @@ highlight_theme = "base16-ocean-light"
 
 # extra stuff
 [extra]
+url = "flux.carboxi.de"
 email = "flux@carboxi.de"
 profile = "/thumbnail.png"
 note = "There is nothing to know about me. I don't matter. What matters is what I write, and I write to know how I am evolving over time."

@@ -9,6 +9,7 @@
 {% macro indiewebcard() %}
   <div class="p-author h-card" style="display: none;">
     <a class="u-url" href="{{ config.base_url }}" rel="me">
+      <a class="u-email" href="mailto:{{config.extra.email}}" rel="me">
       <img class="u-photo" src="{{ config.extra.profile }}" alt="{{ config.author }}">
       <span class="p-name">{{ config.author }}</span>
       <p class="p-note">{{ config.extra.note }}</p>

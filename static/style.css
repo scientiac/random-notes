@@ -360,13 +360,14 @@ tr:hover {
     font-weight: bold;
 }
 .mention-profile.link::after {
-    content: "@";
+    content: "⁎";
     color: #ffa500;
     font-weight: bold;
 }
 .mention-profile.reply::after {
     content: "✉";
     color: #ffa500;
+    font-size: 1rem;
     font-weight: bold;
 }
 

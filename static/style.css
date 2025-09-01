@@ -349,7 +349,7 @@ tr:hover {
 
 .mention-profile::after {
     position: absolute;
-    top: 6px;
+    top: 2px;
     right:-8px;
     font-size: 1.1rem;
     border-radius: 50%;

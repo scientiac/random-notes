@@ -18,19 +18,19 @@
     {% if not links.source is starting_with("https://" ~ config.extra.url) %}
         {% if links.activity.type == "like" %}
             <div class="mention-profile like">
-                <code><a href="{{ links.source }}">{{ links.data.author.name }}</a> liked <a href="{{ links.target }}">{{ target_page.title }}</a></code>
+                <em><a href="{{ links.source }}">{{ links.data.author.name }}</a> liked <a href="{{ links.target }}">{{ target_page.title }}</a></em>
             </div>
         {% endif %}
 
         {% if links.activity.type == "link" %}
             <div class="mention-profile link">
-                <code><a href="{{ links.source }}">{{ links.data.author.name }}</a> mentioned <a href="{{ links.target }}">{{ target_page.title }}</a></code>
+                <em><a href="{{ links.source }}">{{ links.data.author.name }}</a> mentioned <a href="{{ links.target }}">{{ target_page.title }}</a></em>
             </div>
         {% endif %}
 
         {% if links.activity.type == "reply" %}
             <div class="mention-profile reply">
-                <code><a href="{{ links.source }}">{{ links.data.author.name }}</a> replied to <a href="{{ links.target }}">{{ target_page.title }}</a></code>
+                <em><a href="{{ links.source }}">{{ links.data.author.name }}</a> replied to <a href="{{ links.target }}">{{ target_page.title }}</a></em>
             </div>
         {% endif %}
     {% endif %}

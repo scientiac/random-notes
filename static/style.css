@@ -337,7 +337,10 @@ tr:hover {
 	img {
 		border-style: solid;
 		border-width: 1.5px;
-		width: 1.5rem;
+		min-width: 1.5rem;
+    max-width: 1.5rem;
+    min-height: 1.5rem;
+    max-height: 1.5rem;
 		border-radius: 50%;
     border-color: #ffa500;
 		position: relative;

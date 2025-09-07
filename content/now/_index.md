@@ -2,7 +2,7 @@
 title = "Now"
 +++
 
-[_I am studying._]  
+[_I am studying._] It's exam-time! 
 I am fascinated that I can't control my mind or my body.
 I am learning to control them now.  
 [_Weird right?_]  

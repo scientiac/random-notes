@@ -5,7 +5,7 @@
 <h1 class="subtitle">A total of {{ terms | length }} Tags.</h1>
 
 {% for tag in terms %}
-<h2><a href="{{ get_taxonomy_url(kind='tags', name=tag.name) }}"><b>{{tag.name}} <sup>{{ tag.pages | length }}</sup></b></a></h2>
+<a href="{{ get_taxonomy_url(kind='tags', name=tag.name) }}"><b>{{tag.name}} <sup>{{ tag.pages | length }}</sup></a><span> • </span></b>
 {% endfor %}
 
 {% endblock content %}

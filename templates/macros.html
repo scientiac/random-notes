@@ -24,7 +24,11 @@
 {# First pass: check if there are any webmentions for this page #}
 {% for links in data.links %}
     {% set trimmed_path = links.target | trim_start_matches(pat="https://" ~ config.extra.url ~ "/") | trim_end_matches(pat="/") %}
-    {% set relative_path = trimmed_path ~ ".md" %}
+    {% if trimmed_path == "" %}
+        {% set relative_path = "_index.md" %}
+    {% else %}
+        {% set relative_path = trimmed_path ~ ".md" %}
+    {% endif %}
     {% set target_page = get_page(path=relative_path) %}
     {% if not links.source is starting_with("https://" ~ config.extra.url) %}
       {% if links.target == page.permalink %}
@@ -38,11 +42,14 @@
 <div id="webmention" class="next">
 <hr>
 <h2>Nexus</h2>
-
 <div class="interaction-box">
 {% for links in data.links %}
     {% set trimmed_path = links.target | trim_start_matches(pat="https://" ~ config.extra.url ~ "/") | trim_end_matches(pat="/") %}
-    {% set relative_path = trimmed_path ~ ".md" %}
+    {% if trimmed_path == "" %}
+        {% set relative_path = "_index.md" %}
+    {% else %}
+        {% set relative_path = trimmed_path ~ ".md" %}
+    {% endif %}
     {% set target_page = get_page(path=relative_path) %}
     {% if not links.source is starting_with("https://" ~ config.extra.url) %}
       {% if links.target == page.permalink %}

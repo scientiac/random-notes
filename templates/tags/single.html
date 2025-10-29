@@ -2,7 +2,7 @@
 
 {% block content %}
 <div class="logs">
-  <h1 class="title-writings">#{{ term.name }}</h1>
+  <h1 class="p-name"><a href="{{ config.base_url }}">#{{ term.name }}</a></h1>
 
   <section>
     {% set prev_year = "" %}

@@ -28,7 +28,7 @@
         <div class="tag">
           {% if latest_post.taxonomies.tags %}
               {% for tag in latest_post.taxonomies.tags %}
-                  <p class="u-category">{{ tag }}</p>
+                  <a class="u-category" href="{{ get_taxonomy_url(kind='tags', name=tag) }}">{{ tag }}</a>
               {% endfor %}
           {% endif %}
         </div>

@@ -15,7 +15,7 @@ generate_feeds = true
 
 # enable tags
 taxonomies = [
-    {name = "tags", output = false}
+    {name = "tags", output = true}
 ]
 
 # enable code highlighting

@@ -35,7 +35,6 @@
 /* ============================================
    FONT DECLARATIONS
    ============================================ */
-
 @font-face {
   font-display: block;
   font-family: 'Caveat';
@@ -48,31 +47,59 @@
   font-family: 'Caveat';
   font-style: bold;
   font-weight: 700;
-  src: url(/fonts/caveat-v18-latin-700.woff2') format('woff2');
+  src: url(/fonts/caveat-v18-latin-700.woff2) format('woff2');
 }
 @font-face {
-  font-family:"Libertinus";
-  font-style:bold;
-  font-stretch:normal;
+  font-family: 'Fantasque Sans Mono';
+  font-style: normal;
   font-weight: 400;
   font-display: block;
-  src:url(/fonts/LibertinusSerif-Bold.woff2)format("woff2")
+  src: url(/fonts/FantasqueSansMono-Regular.woff2) format('woff2');
 }
 @font-face {
-  font-family:"Libertinus";
-  font-style:italic;
-  font-stretch:normal;
-  font-weight:400;
+  font-family: 'Fantasque Sans Mono';
+  font-style: italic;
+  font-weight: 400;
   font-display: block;
-  src:url(/fonts/LibertinusSerif-Italic.woff2)format("woff2")
+  src: url(/fonts/FantasqueSansMono-Italic.woff2) format('woff2');
 }
 @font-face {
-  font-family:"Libertinus";
-  font-style:normal;
-  font-stretch:normal;
-  font-weight:400;
+  font-family: 'Fantasque Sans Mono';
+  font-style: normal;
+  font-weight: 700;
   font-display: block;
-  src:url(/fonts/LibertinusSerif-Regular.woff2)format("woff2")
+  src: url(/fonts/FantasqueSansMono-Bold.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Fantasque Sans Mono';
+  font-style: italic;
+  font-weight: 700;
+  font-display: block;
+  src: url(/fonts/FantasqueSansMono-BoldItalic.woff2) format('woff2');
+}
+@font-face {
+  font-family: "Libertinus";
+  font-style: bold;
+  font-stretch: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(/fonts/LibertinusSerif-Bold.woff2) format("woff2")
+}
+@font-face {
+  font-family: "Libertinus";
+  font-style: italic;
+  font-stretch: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(/fonts/LibertinusSerif-Italic.woff2) format("woff2")
+}
+@font-face {
+  font-family: "Libertinus";
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(/fonts/LibertinusSerif-Regular.woff2) format("woff2")
 }
 
 /* ============================================
@@ -83,7 +110,7 @@
   --column-width: 70ch;
   --font-family:"Libertinus", P052, serif;
   --font-family-sans:system-ui, sans-serif;
-  --font-family-mono:ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, "DejaVu Sans Mono", monospace;
+  --font-family-mono:"Fantasque Sans Mono", ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, "DejaVu Sans Mono", monospace;
   --font-size:clamp(15px, 0.40vw + 13px, 35px);
   --font-line-height:clamp(26px, 0.78vw + 22.488px, 42px);
   --font-style:normal;
@@ -150,11 +177,13 @@ summary {
 }
 
 kbd, code {
+  font-family:var(--font-family-mono);
 	font-weight: bold;
   font-size: 1rem;
 }
 
 pre {
+  font-family:var(--font-family-mono);
   max-width: 100%;
   overflow: auto;
   padding: 0.25rem 1rem;

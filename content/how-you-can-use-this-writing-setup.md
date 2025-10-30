@@ -140,4 +140,6 @@ I feel the same about learning. Nice writing faulty!
 
 ## Finally
 
-I made this to introduce people to webmentions and increase interactions using it. I encourage writing both goofy and serious stuff. [_And even stupid stuff._] And most importantly I incourage people to customize the hell out of this base, changing and tweaking css and html without breaking the indieweb structure.[_Happy writing!_]
+I made this to introduce people to webmentions and increase interactions using it. I encourage writing both goofy and serious stuff. [_And even stupid stuff._] And most importantly I incourage people to customize the hell out of this base, changing and tweaking css and html without breaking the indieweb structure.
+
+[_Happy writing!_]

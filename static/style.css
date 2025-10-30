@@ -20,6 +20,7 @@
   --color-text-tertiary: #333;            /* Table text */
   --color-text-muted: gray;               /* Month headers */
   --color-text-link: black;               /* Link text color */
+  --color-inner-voice: #0504aa;           /*  Text inner voice */
   
   /* Accent colors */
   --color-accent-primary: #ffa500;     /* Primary accent (orange - used for link underlines, borders, icons) */
@@ -121,8 +122,10 @@ a:not(h1 a, footer a, .listing a):after {
     right: 0;
     bottom: calc(var(--deco-height) * -0.225);
     height: var(--deco-height);
-    background-image: url("data:image/svg+xml,%3Csvg width='100' height='20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 10 Q 25 0, 50 10 T 100 10' stroke='%23ffa500' stroke-width='4'/%3E%3C/svg%3E%0A");
-    background-size: 300% 200%;
+    background-color: var(--color-accent-primary);
+    mask-image: url("data:image/svg+xml,%3Csvg width='100' height='20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 10 Q 25 0, 50 10 T 100 10' stroke='black' stroke-width='4'/%3E%3C/svg%3E%0A");
+    mask-size: 300% 200%;
+    mask-repeat: repeat-x;
 }
 
 h1 {
@@ -424,7 +427,7 @@ tr:hover {
   position: relative;
   font-family: "Caveat", serif;
   font-size: 1rem;
-  color: var(--color-text-secondary);
+  color: var(--color-inner-voice);
 
   &:after {
     --deco-height: 0.3125em;
@@ -434,9 +437,10 @@ tr:hover {
     right: 0;
     bottom: calc(var(--deco-height) * -0.625);
     height: var(--deco-height);
-    background-image: url("data:image/svg+xml,%3Csvg width='100' height='20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 10 Q 25 0, 50 10 T 100 10' stroke='%23555555' stroke-width='2'/%3E%3C/svg%3E%0A");
-    background-size: 300% 200%; /* Adjust size for more variation */
-    background-repeat: repeat-x; /* Repeat horizontally */
-    background-position: 0 50%; /* Center the background vertically */
+    background-color: var(--color-inner-voice);
+    mask-image: url("data:image/svg+xml,%3Csvg width='100' height='20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 10 Q 25 0, 50 10 T 100 10' stroke='black' stroke-width='2'/%3E%3C/svg%3E%0A");
+    mask-size: 300% 200%;
+    mask-repeat: repeat-x;
+    mask-position: 0 50%;
   }
 }

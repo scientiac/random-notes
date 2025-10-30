@@ -56,32 +56,32 @@ Though the default CSS and layout is good, I encourage you to tweak the layouts 
 
 ***
 
-> **3. Run the workflow and then enable the pages.**  
+> **4. Run the workflow and then enable the pages.**  
 > After the GitHub action successfully runs, go to `Settings > Pages > Build and Deployment` and select `Deploy from a branch` on `Source` and `gh-pages` & `\root` on Branch.
 > Add your domain name to `Custom domain` if you have one.
 
 *** 
 
-> **4. Check if the site is published.**  
+> **5. Check if the site is published.**  
 > Go to the website and see if everything is working properly. Only if your website is published go to the next step. 
 > Verify your `h-card` on [indiewebify.me](https://indiewebify.me/validate-h-card/) and see if everything is correct.
 
 *** 
 
-> **5. Make a webmention.io account.**  
+> **6. Make a webmention.io account.**  
 > Go to [webmention.io](https://webmention.io) and put your website URL in there. 
 > It will automatically detect your email address. Then, verify your email to log in.
 > Go to `settings > API Key` and copy it to your clipboard.
 
 *** 
 
-> **6. Save your API secret on GitHub.**  
+> **7. Save your API secret on GitHub.**  
 > Go to GitHub `Settings > Secrets and variables > Actions > Repository secrets` and click on `New repository secret`.  
 > Add `WEBMENTION_TOKEN` as the `Name` and the API key you copied as the `Secret` then click on `Add Secret`.
 
 *** 
 
-> **7. Add the proper workflows.**  
+> **8. Add the proper workflows.**  
 > After you have the page working and webmention.io set up. Remove the current workflow.  
 > Then move the workflows directory from the root to `.github`.
 > ```bash
@@ -93,13 +93,13 @@ Though the default CSS and layout is good, I encourage you to tweak the layouts 
 
 *** 
 
-> **8. Verify that everything is working correctly.**  
+> **9. Verify that everything is working correctly.**  
 > Check if all the GitHub actions run successfully and nothing fails.
 > Verify everything in [indiewebify.me](https://indiewebify.me). [_It is fine if **Syndicated Copies** shows an error._]
 
 *** 
 
-> **9. Finally write your posts.**  
+> **10. Finally write your posts.**  
 > Write your posts by making a markdown file in `/content` with the proper header like in the example `/content/one.md`.  
 > If you use Nix then use `direnv` to enable the nix shell which automatically installs zola for you. You also get a command called `now` that you can run to get the properly formatted datetime for the post.
 

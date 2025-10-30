@@ -46,7 +46,7 @@ Though the default CSS and layout is good, I encourage you to tweak the layouts 
 > 4. Edit the files in `/author` and `/now` to write about yourself.
 > 5. If everyting is correct push the changes to the GitHub repo.
 
-[_In the config you can use themes for syntax highlighting from [the jola docs](https://www.getzola.org/documentation/getting-started/configuration/#syntax-highlighting)._]
+[_In the config you can use themes for syntax highlighting from [the zola docs](https://www.getzola.org/documentation/getting-started/configuration/#syntax-highlighting)._]
 
 ***
 

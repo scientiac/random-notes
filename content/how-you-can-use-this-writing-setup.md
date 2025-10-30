@@ -19,7 +19,7 @@ I decided to make this into a template and not just my personal site because I f
 
 1. Built with [zola](https://www.getzola.org/) static site generator. [_Because it is rust, and is easy to install and use than hugo._]
 2. Simple and uses my hand written CSS [...again! Inspired by [Manu's](https://manuelmoreale.com/thoughts/welcome-to-manus-website) blog.] and no JS.
-3. Has tags to categorize posts. [_Because, https://webmention.app/docs#using-the-command-linewhy not?_]
+3. Has tags to categorize posts. [_Because, why not?_]
 4. Uses [webmention.io](https://webmention.io/) as the listener for webmentions.
 5. [webmention.app command line](https://webmention.app/docs#using-the-command-line) and zola generated RSS feed for sending webmentions.
 6. [GitHub Pages](https://docs.github.com/en/pages) and [GitHub Workflows](https://docs.github.com/en/actions/concepts/workflows-and-actions/workflows) for hosting and checking the webmentions periodically.

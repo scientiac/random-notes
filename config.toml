@@ -21,7 +21,7 @@ taxonomies = [
 # enable code highlighting
 [markdown]
 highlight_code = true
-highlight_theme = "solarized-light"
+highlight_theme = "ascetic-white"
 
 # extra stuff
 [extra]

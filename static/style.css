@@ -23,7 +23,7 @@
   --color-inner-voice: #0504aa;           /*  Text inner voice */
   
   /* Accent colors */
-  --color-accent-primary: #fff;     /* Primary accent (orange - used for link underlines, borders, icons) */
+  --color-accent-primary: #ffa500;     /* Primary accent (orange - used for link underlines, borders, icons) */
   --color-accent-quote: #ccc;          /* Blockquote decorative quotes */
   
   /* Border colors */

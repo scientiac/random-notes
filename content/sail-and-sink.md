@@ -5,8 +5,7 @@ date = 2025-11-10T16:54:34+05:45
 tags = ["poems"]
 +++
 
-<em class="inner-voice">
-.
+<em>
 
 some ships sail and some sink down,  
 some request and some order loud,  
@@ -22,5 +21,3 @@ some admire and some too close,
 some are good but not all those.  
 
 </em>  
-
-[_._]

@@ -7,7 +7,8 @@ tags = ["app"]
 
 I am trying to see if the app I made to make posts to my blog from my phone is as intuitive as i want it to be.
 
-Hopefully it works as I intended it to.
+I built the app and edited this post.
 [_Letsgooo!_]
 
 [_Fluxxxxxxx!_]
+

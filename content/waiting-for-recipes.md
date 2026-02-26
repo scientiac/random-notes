@@ -7,4 +7,4 @@ tags = ["paru"]
 
 I am eagerly waiting for [paru](https://log.preranasubedi.com.np/recipes-lekhnu-chha/) to post her recipes.  
 
-[_I love eating. XD_]
+[_I love eating. XD_] Cmon! Post some already.

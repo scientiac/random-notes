@@ -1,0 +1,10 @@
+{
+  "contentDir": "content",
+  "useStaticFolder": true,
+  "staticDir": "static",
+  "assetsDir": "assets/images",
+  "postTemplate": "+++\ntitle = \"{{title}}\"\ndate = {{date}}T{{time}}+05:45\n[taxonomies]\ntags = [\"self\"]\n+++\n",
+  "siteUrl": "https://flux.carboxi.de",
+  "showAdvancedFiles": false,
+  "syncSettingsToGitHub": true
+}

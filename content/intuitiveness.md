@@ -14,3 +14,7 @@ I built the app and edited this post.
 
 So, I have somewhat completed the app, and it's called [flux](https://github.com/scientiac/flux).
 
+I keep adding features and the "almost complete" app is far from being complete. I remembered this book cover:  
+
+![reality.png](/assets/images/reality.png)
+
